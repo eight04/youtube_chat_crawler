@@ -1,2 +1,4 @@
 auto.bat
 test.txt
+*.json
+.venv
